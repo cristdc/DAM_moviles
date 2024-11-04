@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyecto4Practica</string>
+    <string name="qu_tipo_de_pizza_te_gustar_a_tomar">¿Qué tipo de pizza te gustaría tomar?</string>
+    <string name="pizza_2">Pizza 2</string>
+    <string name="pizza_3">Pizza 3</string>
+    <string name="pizza_4">Pizza 4</string>
+    <string name="pizza_1">Pizza 1</string>
+    <string name="pregunta_extra">Pregunta extra</string>
+    <string name="chip1">chip1</string>
+    <string name="preguntabebida">Pregunta Bebida</string>
+    <string name="chip2">chip2</string>
+    <string name="chip3">chip3</string>
+</resources>

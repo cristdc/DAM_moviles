@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ej3</string>
+    <string name="empieza_la_cuenta_atr_s">Empieza la cuenta atrás!</string>
+    <string name="ingresa_unos_segundos">Ingresa unos segundos:</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ej1p3</string>
+    <string name="toastPerder">El número introducido es %1$s que el número random</string>
+    <string name="toastGanar">Has ganado!</string>
+    <string name="toastPerderDefinitivo">Has perdido!</string>
+    <string name="introduce_el_n_mero">Introduce el número</string>
+    <string name="jugar">Jugar</string>
+</resources>
