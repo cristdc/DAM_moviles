@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ej1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Hola_DAM">Hola DAM</string>
+    <string name="textview">TextView</string>
+</resources>

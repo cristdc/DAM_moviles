@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Proyecto2 practica</string>
+    <string-array name="cursos">
+        <item>1ºDAM</item>
+        <item>2ºDAM</item>
+    </string-array>
+    <string name="seleccionarCurso">Seleccionar curso</string>
+    <string name="sinCurso">No hay ninguín curso seleccionado</string>
+    <string name="observaciones">Introduce Observaciones</string>
+    <string name="enviar">Enviar</string>
+    <string name="envio">Las observaciones son %1$s</string>
+</resources>

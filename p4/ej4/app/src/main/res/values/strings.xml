@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ej4</string>
+    <string name="cantidadDinero">Introduce una cantidad de dinero</string>
+    <string name="Convertir">Convertir</string>
+    <string name="dinero">Introduce un número</string>
+    <string-array name="moneda">
+        <item>dólares</item>
+        <item>libras</item>
+        <item>yenes</item>
+    </string-array>
+</resources>
