@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Proyecto3</string>
-    <string name="start">start</string>
-    <string name="stop">stop</string>
-    <string name="pausa">pausa</string>
-    <string name="reiniciar">reiniciar</string>
-</resources>

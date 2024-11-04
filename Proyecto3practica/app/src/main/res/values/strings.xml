@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Proyecto3 practica</string>
-    <string name="start">start</string>
-    <string name="stop">Stop</string>
-    <string name="pausa">Pausa</string>
-    <string name="reset">Reset</string>
-</resources>
