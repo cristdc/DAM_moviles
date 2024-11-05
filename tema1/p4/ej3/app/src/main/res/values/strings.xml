@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ej3</string>
+    <string name="name">Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="business">Business</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+</resources>
