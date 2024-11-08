@@ -28,7 +28,7 @@ class FormularioFragment : Fragment() {
 
     private fun inicializarToolbar() {
         val mainActivity:MainActivity = activity as MainActivity
-        mainActivity.setSupportActionBar(binding.toolbar)
+        // mainActivity.setSupportActionBar(binding.toolbar)
     }
 
     private fun getListaBotones(): List<ImageView> = listOf(
