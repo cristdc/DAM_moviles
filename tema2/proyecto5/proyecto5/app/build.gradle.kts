@@ -1,11 +1,12 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
+    id("org.jetbrains.kotlin.kapt")
 }
 
 android {
     namespace = "moviles.proyecto5"
-    compileSdk = 34
+    compileSdk = 35
 
     buildFeatures{
         viewBinding = true
@@ -40,9 +41,9 @@ android {
 }
 
 dependencies {
-    //
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6")
-    //
+    implementation("com.squareup.moshi:moshi:1.15.1")
+    kapt("com.squareup.moshi:moshi-kotlin-codegen:1.15.1")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
