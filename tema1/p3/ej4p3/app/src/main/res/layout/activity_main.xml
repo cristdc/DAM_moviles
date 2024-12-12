@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:alpha="0.6">
+
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spnCurso"
+        android:entries="@array/cursos"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSeleccionar"
+        android:text="@string/seleccionar_curso"
+        android:padding="20dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:id="@+id/txtCurso"
+        android:text="@string/no_hay_curso_seleccionado"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"
+        android:gravity="start"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:id="@+id/txtObservaciones"
+        android:hint="@string/introduce_observaciones"
+        android:layout_margin="30dp"
+        android:inputType="textMultiLine"
+        android:layout_gravity="center"
+        android:gravity="top"
+        android:background="@color/white"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnEnviar"
+        android:text="@string/enviar"
+        android:layout_margin="20dp"
+        android:layout_gravity="end"/>
+
+</LinearLayout>
